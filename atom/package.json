@@ -1,5 +1,5 @@
 {
-  "name": "fairyfloss-theme",
+  "name": "fairyfloss-theme-dark",
   "theme": "syntax",
   "version": "1.0.0",
   "author": "Amy Wibowo <sailorhg@gmail.com>",
@@ -8,7 +8,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/fairyfloss-theme",
+  "repository": "https://github.com/paulcbetts/fairyfloss-theme-dark",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
